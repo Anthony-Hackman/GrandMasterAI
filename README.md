@@ -68,8 +68,8 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 
 ## Authors
 
-Anthony Hackman - Initial work - GrandMasterAI.
-Kyle Fadley - Initial logic - GrandMasterAI.
+Anthony Hackman - Initial work - GrandMasterAI
+Kyle Fadley - Initial logic - GrandMasterAI
 
 See also the list of contributors who participated in this project.
 
