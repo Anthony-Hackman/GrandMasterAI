@@ -1,6 +1,6 @@
 # GrandMasterAI 0.1.1
 
-***"Chess is the Drosophila of artificial intelligence."***
+***"Chess is the Drosophila of artificial intelligence." - Alaxander Kronrod***
 
 ![GrandMasterAI Logo](./GrandLogo.png)
 
