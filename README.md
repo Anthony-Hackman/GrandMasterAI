@@ -8,7 +8,7 @@ GrandMasterAI is a minimal sophisticated chess engine that interfaces with Chess
 
 ## Features
 
-- **Autonomous Play**: Engages in chess games on Chess.com without human intervention.
+- **Autonomous Play**: Engages in chess games on Chess.com (For educational purposes) without interaction.
 - **Advanced Strategies**: Utilizes complex chess strategies and notations.
 - **Sportsmanship**: Maintains ethical conduct and fair play in all interactions.
 - **Insightful**: Provides explanations for moves and strategies upon request.
