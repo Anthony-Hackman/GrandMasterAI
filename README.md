@@ -30,7 +30,6 @@ A step by step series of examples that tell you how to get a development environ
 
 Clone the repository:
 ```
-git clone https://yourrepository.com/GrandMasterAI.git
 ```
 Navigate to the project directory:
 ```
