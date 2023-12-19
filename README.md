@@ -1,4 +1,4 @@
-# GrandMasterAI 0.1.1
+# GrandMasterAI 0.1.2
 ***"Chess is the Drosophila of artificial intelligence." - Alexander Kronrod***
 
 ![GrandMasterAI Logo](./GrandLogo.png)
@@ -11,6 +11,7 @@ GrandMasterAI is a minimal sophisticated chess engine that interfaces with Chess
 - **Advanced Strategies**: Utilizes complex chess strategies and notations.
 - **Sportsmanship**: Maintains ethical conduct and fair play in all interactions.
 - **Insightful**: Provides explanations for moves and strategies upon request.
+- ** AlphaBeta pruning for best move
 
 ## Getting Started
 
