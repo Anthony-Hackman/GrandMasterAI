@@ -1,8 +1,4 @@
 # GrandMasterAI 0.1.1
-
-TODO
-https://www.chess.com/announcements/view/published-data-api
-ADD
 ***"Chess is the Drosophila of artificial intelligence." - Alexander Kronrod***
 
 ![GrandMasterAI Logo](./GrandLogo.png)
